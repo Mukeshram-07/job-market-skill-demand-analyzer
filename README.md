@@ -22,6 +22,13 @@ and ML-based short-term forecasting.
 6. ML-based short-term forecasting (Linear Regression)
 7. Interactive Streamlit dashboard
 
+## Visualization Outputs
+
+![Skill Trends](outputs/skill_trends_lineplot.png)
+![Skill Distribution](outputs/skill_distribution_week3.png)
+![Skill Heatmap](outputs/skill_demand_heatmap.png)
+
+
 ## Results
 - No statistically significant skill demand trends detected over the 3-week period
 - Core skills (Machine Learning, Python, Deep Learning) show stable demand
