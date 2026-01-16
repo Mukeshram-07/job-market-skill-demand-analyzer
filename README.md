@@ -1,4 +1,5 @@
 # Job Market Skill Demand Analyzer
+![Status](https://img.shields.io/badge/status-complete-brightgreen)
 
 ## Overview
 This project analyzes real-world demand for Data Science skills using job postings data.
